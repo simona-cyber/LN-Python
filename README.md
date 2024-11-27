@@ -1,2 +1,2 @@
 # LN-Python
-2. LN Informatik
+2. Leistungsnachweis Informatik
