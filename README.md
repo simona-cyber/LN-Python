@@ -1,3 +1,3 @@
 # LN-Python
-2. LN Informatik
+2. Leistungsnachweis Informatik
 von Albna Krasniqi, Sara Cruz Silva, Simona Flachsmann
