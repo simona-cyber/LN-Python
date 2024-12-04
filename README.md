@@ -10,5 +10,3 @@ Wie hoch ist der prozentuale Anteil der Erwachsenen ab 18 Jahren, die basierend 
 
 Quellen: https://ourworldindata.org/grapher/share-of-adults-defined-as-obese?tab=table
 
-
-
